@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_pdx237.mk
+    $(LOCAL_DIR)/lmodroid_pdx237.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_pdx237-user \
-    lineage_pdx237-userdebug \
-    lineage_pdx237-eng
+    lmodroid_pdx237-user \
+    lmodroid_pdx237-userdebug \
+    lmodroid_pdx237-eng
